@@ -1,7 +1,3 @@
-# Welcome to streamlit
+# Welcome to rotate image streamlit app
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
-
-Edit [Hello.py](./app.py) to customize this app to your heart's desire. ❤️
-
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rotate-image-app.streamlit.app/)
